@@ -1,3 +1,3 @@
 BELAJAR JAVA GENERIC
 
-Semangat aja lah medah mudahan bisa selesai cepat.
+Semangat aja lah mudah mudahan bisa selesai cepat.
