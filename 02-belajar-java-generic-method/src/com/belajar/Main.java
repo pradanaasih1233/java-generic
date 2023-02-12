@@ -16,7 +16,7 @@ import com.belajar.kelas.ArrrayData;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("\nBELAJAR JAVA 01 JAVA GENERIC METHOD");
+        System.out.println("\nBELAJAR JAVA 02 JAVA GENERIC METHOD");
 
         // penggunaan.
         ArrrayData<String, Integer> arrrayData = new ArrrayData<>("jarat",19);
